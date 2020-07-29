@@ -15,7 +15,7 @@ I design websites and voice interfaces and also love to dabble in code. On this 
 * LinkedIn: linkedin.com/in/akinlolu-aguda
 * Personal site: https://loluaguda.com
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=loagsword&show_icons=true&count_private=true&hide=stars)](https://github.com/loagsword) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loagsword&layout=compact&hide=jupyter%20notebook)](https://github.com/loagsword)
+[![github stats](https://github-readme-stats-seven-drab.vercel.app/api?username=loagsword&show_icons=true&count_private=true&hide=stars)](https://github.com/loagsword) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loagsword&layout=compact&hide=jupyter%20notebook)](https://github.com/loagsword)
 
 
 
