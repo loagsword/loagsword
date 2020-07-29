@@ -6,9 +6,7 @@
 🏙 Location: New Jersey    
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=loagsword&show_icons=true&count_private=true&hide=stars)](https://github.com/loagsword)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loagsword&layout=compact&hide=jupyter%20notebook)](https://github.com/loagsword)
+[![github stats](https://github-readme-stats.vercel.app/api?username=loagsword&show_icons=true&count_private=true&hide=stars)](https://github.com/loagsword) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loagsword&layout=compact&hide=jupyter%20notebook)](https://github.com/loagsword)
 
 
 
@@ -27,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
