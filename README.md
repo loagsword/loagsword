@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm Lolu. I design websites and voice interfaces and also love to dabble in code. On this github, you will find demos and mock websites borne of tutorials and practice projects. I am currently doing some freelance work while figuring out what comes next (looking out for a new role!). Send me a DM or Email.
+I design websites and voice interfaces and also love to dabble in code. On this github, you will find demos and mock websites borne of tutorials and practice projects. I am currently doing some freelance work while figuring out what comes next (looking out for a new role!). Send me a DM or Email.
 
 
 
 😄 Pronouns: He/Him   
 👯 I’m looking to collaborate on: Chatbots & Voice Assistants    
-🔭 currently working on: wastedinkspace.com   
+🔭 Currently working on: wastedinkspace.com   
 🧞‍♂️ Specialties: Adobe CC, Python, React.JS, Wordpress, Jovo, Jovo, AIML, Alexa SK, Actions SDK    
 🏙 Location: New Jersey    
 
